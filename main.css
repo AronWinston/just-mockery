@@ -1,16 +1,20 @@
 body{
     background-color: black;
-    margin: 0px; */
+    margin: 0px; 
 }
 
 h1{
+    position: relative;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     background-color: #EB5757;
-    font-size: 50px;
+    font-size: 70px;
+    margin: 0;
+    
 }
  
  div.row {
-    margin: 10px;
+    margin:0px;
     background-color:black;
+    font-family: Roboto;
 } 
